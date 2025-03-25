@@ -15,4 +15,4 @@ The script performs the following actions:
 
 5. Submits the form.
 
-6. Closes the browser.**
+6. Closes the browser.
